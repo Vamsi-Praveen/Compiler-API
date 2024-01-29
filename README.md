@@ -19,7 +19,7 @@ COMPILER_API it is RESTAPI which helps to compile execute your code and produces
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Vamsi-Praveen/Conmpiler-API.git
+    git clone https://github.com/Vamsi-Praveen/Compiler-API.git
     ```
 
 2. Navigate to the project directory:
